@@ -1,4 +1,10 @@
 golinter
 revive
+dist
+bin
+cmd/cli/cli
+cmd/cli/revive
 vendor
-
+vendor/
+vendor/*
+vendor/**
